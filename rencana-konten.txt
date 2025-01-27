@@ -1,6 +1,7 @@
 Rencana Konten WPU
 
-- PHP 
+- PHP
+ * Laravel
 - JS
  * ES6
  * Framework
