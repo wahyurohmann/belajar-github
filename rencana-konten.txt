@@ -2,6 +2,10 @@ Rencana Konten WPU
 
 - PHP 
 - JS
+ * ES6
+ * Framework
+  ^ Vue
+  ^ React
 - HTML
 - CSS
 - Website interaktif menarik
